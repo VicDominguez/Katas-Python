@@ -21,7 +21,7 @@ def QuestionsMarks(str):
         if(sumatory_10_found == False and sumatory == 10):
           sumatory_10_found = True
         
-        #search contraexample
+        #search counterexample
         if(sumatory == 10 and question_mark_found != 3):
           output = "false"
         
