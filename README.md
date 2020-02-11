@@ -4,3 +4,4 @@ Katas completed in Python 3:
   - Question Marks (coderbyte)
   - Alphabet Soup (coderbyte)
   - Letter Changes (coderbyte)
+  - Longest Word (coderbyte)
