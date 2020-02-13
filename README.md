@@ -5,3 +5,4 @@ Katas completed in Python 3:
   - Alphabet Soup (coderbyte)
   - Letter Changes (coderbyte)
   - Longest Word (coderbyte)
+  - Print Rangoli (hackerrank)
